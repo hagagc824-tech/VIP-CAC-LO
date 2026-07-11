@@ -1,0 +1,16 @@
+{
+  "name": "taixiu-analyzer-api",
+  "version": "1.0.0",
+  "description": "API Phân tích học cầu tài xỉu chuyên sâu cho HitClub - ID: @tranhoang2286",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "author": "@tranhoang2286",
+  "license": "MIT"
+}
